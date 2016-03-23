@@ -1,0 +1,26 @@
+{
+  "name": "ermahrercen-serndin-nermahs",
+  "version": "0.0.0",
+  "description": "ERMAGERD NERMAHS",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisinajar/ermahrercen-serndin-nermahs.git"
+  },
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisinajar/ermahrercen-serndin-nermahs/issues"
+  },
+  "homepage": "https://github.com/chrisinajar/ermahrercen-serndin-nermahs#readme",
+  "dependencies": {
+    "american-sounding-names": "^1.1.1",
+    "erm": "0.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
